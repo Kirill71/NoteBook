@@ -1,0 +1,72 @@
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+c:\users\kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\View.MainWindow.resources
+C:\Users\Kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\View.ChangePerson.resources
+C:\Users\Kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\View.AddPersonWindow.resources
+C:\Users\Kirill\Documents\Visual Studio 2012\Projects\NoteBook\NoteBook\obj\Debug\View.ViewPerson.resources
+C:\Users\Kirill\documents\visual studio 2012\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.AbstractForm.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.ChangePerson.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.MainWindow.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.ViewPerson.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.AddPerson.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\View.SearchResult.resources
+C:\Users\Kirill\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.SearchResultWindow.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AddPersonWindow.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ChangePerson.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.MainWindow.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AbstractWindow.resources
+C:\Users\Kirill\Desktop\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ViewPersonWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe.config
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.exe
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.pdb
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.pdb
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.SearchResultWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AbstractWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AddPersonWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ChangePerson.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.MainWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ViewPersonWindow.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.Helper.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AboutNoteBook.resources
+D:\избранное\Досдачи\Курсовой\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AboutNoteBook.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.Helper.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.SearchResultWindow.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AbstractWindow.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.AddPersonWindow.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ChangePerson.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.MainWindow.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.Views.ViewPersonWindow.resources
+C:\Users\Kirill Zharenkov\Desktop\NoteBook(backup)\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
